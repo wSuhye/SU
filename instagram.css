@@ -1,0 +1,228 @@
+
+* {margin: 0%;
+}
+
+.all {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.logo img{
+    width: 160px;
+    height: 50px;
+    margin-right: 20px;
+
+}
+
+.icons {
+    font-size: 22px;
+    margin : 10px;
+}
+
+.navbar { 
+    width: 300px;
+    height: 30px;
+    background-color: lightgray;
+    border-radius: 8px;
+    text-align: center;
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 8px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.text { margin-left: 10px;
+
+}
+
+.line {
+    width : 100%;
+    height: 2px;
+    background-color: lightgray;
+}
+
+
+.middle {
+    width: 80%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px auto 0 auto;
+}
+
+.profile img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+
+}
+
+.wrap {
+    display: flex;
+    flex-direction: column;
+    align-content: space-evenly;
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 50px;
+
+}
+
+.box1 {
+    display: flex;
+    width: 400px;
+    height: 60px;
+    align-items: center;
+
+}
+
+.name {
+    font-size: 25px;
+}
+
+.small-box{
+    margin-top: 4px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: unset;
+
+}
+
+.box2 {
+    width : 400px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    
+
+}
+.b {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.box3 {
+    width: 400px;
+    height: 60px;
+    font-family: 나눔바른고딕;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+
+.bottom {
+    width: 75%;
+    height: 100px;
+    margin-top : 100px;
+    display: flex;
+    margin-left: 250px;
+}
+
+.pic1 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.pic1 img {
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin-left: 50px;
+}
+
+.pic1 p {
+    margin: 10px;
+    margin-left: 50px;
+}
+
+.pic2 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.pic2 img {
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin-left: 30px;
+   
+}
+
+.pic2 p {
+    margin: 10px;
+    margin-left: 40px;
+}
+
+.line2 {
+    width: 100%;
+    height: 2px;
+    background-color: lightgray;
+    margin-top: 50px;
+}
+
+.text3 { 
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+   margin: 50px auto 0 auto;
+}
+
+.contents {
+    width: 50%;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin: 100px auto 0 auto;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    
+
+}
+
+.first {
+    display: flex;
+    justify-content: center;
+}
+
+.second {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.con1 img {
+    width: 250px;
+    height: 250px;
+    margin-right: 20px;
+}
+
+.con2 img {
+    width: 250px;
+    height: 250px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.con3 img {
+    width: 250px;
+    height: 250px;
+    margin-left: 20px;
+}
+
+.con4 img {
+    width: 250px;
+    height: 250px;
+    margin-right: 20px;
+
+}
+
+.con5 img {
+    width: 250px;
+    height: 250px;
+    margin-left: 5px;
+}
